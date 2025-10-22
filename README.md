@@ -32,10 +32,10 @@ This repository provides code and data for estimating **spacing behavior** betwe
 ## ⚙️ Environment
 
 numpy==1.21.6\
-torch==1.7.0
-torchaudio==0.7.0
-torchvision==0.8.0
-pandas==1.1.5
+torch==1.7.0\
+torchaudio==0.7.0\
+torchvision==0.8.0\
+pandas==1.1.5\
 matplotlib==3.5.3
 scipy==1.7.3
 
