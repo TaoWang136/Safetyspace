@@ -40,5 +40,19 @@ matplotlib==3.5.3
 scipy==1.7.3
 
 
-The project was tested with the following versions:
+##🚀 Usage
 
+Prepare data
+
+Ensure data.csv is in the repository root (or update the path inside the notebooks).
+
+Run MLE estimation
+
+jupyter notebook mle_gaussian_log.ipynb
+
+
+This notebook estimates spacing parameters (e.g., distribution parameters over longitudinal/lateral spacing).
+
+Run the case study (SinD)
+
+jupyter notebook case_study.ipynb
